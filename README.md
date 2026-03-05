@@ -10,7 +10,7 @@ The objective is to analyze customer call transcripts and output a structured JS
 4. `RPC_STATUS`: Right Party Contact status (true, false, partial, insufficient_data).
 
 ## 🚀 Performance Snapshot (Test Set)
-The model was fine-tuned on **2,840 balanced samples** using `Qwen2.5-7B-Instruct`.
+The model was fine-tuned on **10k balanced samples** using `Qwen2.5-7B-Instruct`.
 
 | Metric | Score | status |
 | :--- | :--- | :--- |
